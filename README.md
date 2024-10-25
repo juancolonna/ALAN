@@ -30,3 +30,29 @@ To run ALAN locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone <repository-url>
+```
+
+2. **Install Dependencies:** Ensure you have Python installed and run the following command to install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. **Run the Bot:** Replace the placeholder with your Telegram bot token in the code and run:
+```bash
+python alan_bot.py
+```
+
+**Configuration**
+Telegram Bot Token: Replace "telegram token" with your actual Telegram bot token.
+LMStudio API: Ensure that LMStudio is running locally and accessible at http://127.0.0.1:1234/v1/chat/completions.
+
+**Contributing**
+Contributions are welcome! If you have suggestions or would like to add new features, feel free to open an issue or submit a pull request.
+
+**License**
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+**Acknowledgements**
+LMStudio and LLaMA 3.2 for the backend AI capabilities.
+The Institute of Computing (IComp) at UFAM for supporting this educational project.
