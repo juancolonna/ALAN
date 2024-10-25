@@ -23,26 +23,25 @@ ALAN is a programming logic and learning assistant developed at the Institute of
 
 This chatbot is an educational experiment created by Prof. Juan from the Institute of Computing (IComp) at UFAM. There is no guarantee regarding the accuracy or functionality of the code or responses provided by the bot. Please use the content generated carefully and verify its correctness.
 
-## Installation
-
-To run ALAN locally, follow these steps:
-
-1. **Clone the Repository**
-
-2. **Install Dependencies:** Ensure you have Python installed and run the following command to install the required libraries:
-```bash
-   pip install requests python-telegram-bot
-```
-
-3. **Run the Bot:** Replace the placeholder with your Telegram bot token in the code and run:
-```bash
-   python3 alan_bot.py
-```
-
 ## Configuration
 1. **Telegram Bot Token**: Replace `"telegram token"` with your actual Telegram bot token.
    - To have your own chatbot, first you need to generate a bot using the Telegram BotFather.
 2. **LMStudio API**: Ensure that LMStudio is running locally and accessible at `http://127.0.0.1:1234/v1/chat/completions`.
+
+## Use
+To run ALAN locally, follow these steps:
+
+1. **Clone the Repository**
+
+2. **Install Dependencies:** 
+```bash
+   pip install requests python-telegram-bot
+```
+
+3. **Run the Bot:**
+```bash
+   python3 alan_bot.py
+```
 
 **Contributing**
 Contributions are welcome! If you have suggestions or would like to add new features, feel free to open an issue or submit a pull request.
