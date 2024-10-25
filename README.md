@@ -30,17 +30,17 @@ To run ALAN locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone <repository-url>
-```
+
 
 2. **Install Dependencies:** Ensure you have Python installed and run the following command to install the required libraries:
 
 ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 ```
 
 3. **Run the Bot:** Replace the placeholder with your Telegram bot token in the code and run:
 ```bash
-python alan_bot.py
+   python alan_bot.py
 ```
 
 **Configuration**
