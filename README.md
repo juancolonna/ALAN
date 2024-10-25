@@ -57,6 +57,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 LMStudio and LLaMA 3.2 for the backend AI capabilities.
 The Institute of Computing (IComp) at UFAM for supporting this educational project.
 
-**If the server is up and running, you can try this Telegram bot:**
-[Click here to chat with ALAN on Telegram](https://t.me/Alanzito_bot)
+**If the server is up and running, you can try this Telegram bot:** [chat with ALAN on Telegram](https://t.me/Alanzito_bot)
 
