@@ -13,8 +13,9 @@ app = ApplicationBuilder() \
 LMSTUDIO_API_URL = 'http://127.0.0.1:1234/v1/chat/completions'
 
 disclaimer_message = ('Assistente de programação desenvolvido pelo Prof. Juan do Instituto de Computação (IComp) da UFAM.\n\n'
-                      'Disclaimer: este projeto é um experimento educacional e não há garantias sobre a precisão ou funcionamento dos códigos ou respostas fornecidas. /' 
-                      'Por favor, use com cautela e verifique sempre o conteúdo gerado.\n')
+                      'Disclaimer: este projeto é um experimento educacional e não há garantias sobre a precisão ou funcionamento dos códigos ou respostas fornecidas.' 
+                      'Por favor, use com cautela e verifique sempre o conteúdo gerado.\n'
+                      'https://github.com/juancolonna/ALAN/tree/main\n')
 
 # Function to get response from LMStudio
 async def get_lmstudio_response(prompt):  
