@@ -28,7 +28,7 @@ This chatbot is an educational experiment created by Prof. Juan from the Institu
    - To have your own chatbot, first you need to generate a bot using the Telegram BotFather.
 2. **LMStudio API**: Ensure that LMStudio is running locally and accessible at `http://127.0.0.1:1234/v1/chat/completions`.
 
-## Use
+## Replication
 To run ALAN locally, follow these steps:
 
 1. **Clone the Repository**
