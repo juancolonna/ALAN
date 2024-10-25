@@ -44,13 +44,17 @@ To run ALAN locally, follow these steps:
 ```
 
 **Contributing**
+
 Contributions are welcome! If you have suggestions or would like to add new features, feel free to open an issue or submit a pull request.
 
 **License**
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 **Acknowledgements**
+
 LMStudio and LLaMA 3.2 for the backend AI capabilities.
+
 The Institute of Computing (IComp) at UFAM for supporting this educational project.
 
 **If the server is up and running, you can try this Telegram bot:** [chat with ALAN on Telegram](https://t.me/Alanzito_bot)
