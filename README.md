@@ -1,4 +1,4 @@
-# ALAN - Programming Logic and Learning Assistant 🤓
+# ALAN - Programming Logic and Learning Assistant 🤓 (telegram version)
 
 ALAN is a programming logic and learning assistant developed at the Institute of Computing (IComp) of the Federal University of Amazonas (UFAM). This bot is designed to assist users with questions about programming, particularly in Python and C, using a Telegram chatbot interface.
 
